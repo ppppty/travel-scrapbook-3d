@@ -1,0 +1,5 @@
+interface:
+  display_name: "3D 旅行手账"
+  short_description: "将旅行照片制作成可交互的立体手账网站，并按需导出无音乐展示视频"
+  brand_color: "#B7A3B5"
+  default_prompt: "使用 $travel-scrapbook-3d，把我的旅行照片做成莫奈少女风的 3D 手账网站。"
