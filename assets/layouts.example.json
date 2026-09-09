@@ -1,0 +1,12 @@
+{
+  "bounds": {"left": -2.5, "right": 2.5, "top": -2.7, "bottom": 2.7},
+  "border": {"x": 0.08, "top": 0.1, "bottom": 0.26},
+  "spreads": [{
+    "scene": "museum",
+    "items": [
+      {"id": "p01", "side": "left", "x": 0, "z": 0, "width": 2.3},
+      {"id": "p02", "side": "right", "x": 0, "z": 1.6, "width": 2.4}
+    ],
+    "reserved": [{"side": "right", "x": 0, "z": -1, "width": 3.4, "height": 2.2}]
+  }]
+}
