@@ -1,0 +1,9 @@
+{
+  "title": "我的旅行手账",
+  "photos": [
+    {"id": "p01", "source": "photos/portrait.jpg", "caption": "在展厅里"},
+    {"id": "p02", "source": "photos/landscape.jpg", "caption": "窗边的光"}
+  ],
+  "scenes": [{"id": "museum", "name": "美术馆", "day": 1, "model": "gallery", "photos": ["p01", "p02"]}],
+  "unassigned": []
+}
